@@ -1,16 +1,4 @@
-<p align="center"><img width="1080" height="784" alt="IMG_20260717_183545_1" src="https://github.com/user-attachments/assets/044d9838-909a-4b17-bb76-890f7179eb83" /></p>
-<p align="center"><img width="1140" height="881" alt="HNgsx6LWEAEJHu1" src="https://github.com/user-attachments/assets/db6f2a48-6c97-48f1-b98f-8e2141c3d18b" /></p>
-
-</br>
-
-<p align="center">Best moment in HSR:</p>
-<p align="center"><img width="1720" height="1442" alt="IMG_20260920_005423" src="https://github.com/user-attachments/assets/46e20d8e-5abf-48a5-ac03-fe463eeda07f" /></p>
-<p align="center"><img width="2005" height="1265" alt="IMG_20260920_005404" src="https://github.com/user-attachments/assets/09b3c1b8-b9cd-4ca7-a1b6-65abf9cbf41e" /></p>
-<p align="center"><img width="2399" height="1293" alt="IMG_20260920_005527" src="https://github.com/user-attachments/assets/82239668-5d54-49ed-9d24-4380051d7d4a" /></p>
-
-</br>
-
-<p align="center">🍁🗡️Renheng screenshots to annoy the haters:</p>
+# <p align="center">🍁🗡️Renheng screenshots to annoy the haters:</p>
 <p align="center"><img width="1109" height="544" alt="IMG_20260420_084916_1_1" src="https://github.com/user-attachments/assets/276e08d3-e10f-4df9-a3db-8a7b5b6e6ade" /></p>
 <p align="center"><img width="499" height="624" alt="20260325_073919" src="https://github.com/user-attachments/assets/88eef344-7fde-4b4a-a063-2fcd99034e5d" /></p>
 <p align="center"><img width="1904" height="222" alt="Screenshot_2026-01-28-12-30-52-152_com HoYoverse hkrpgoversea_1" src="https://github.com/user-attachments/assets/dc6eb891-5559-4e59-a086-6426731d77c4" /></p>
@@ -32,4 +20,9 @@
 <p align="center"><img width="1208" height="1080" alt="Screenshot_2026-01-28-12-31-29-600_com HoYoverse hkrpgoversea_1" src="https://github.com/user-attachments/assets/3ad2dd4f-a943-4bdd-96e4-1eb1ef9e289c" /></p>
 <p align="center"><img width="2048" height="1140" alt="HGe6yWJacAACgjD" src="https://github.com/user-attachments/assets/0530b1ce-b1ee-458e-aa7c-78c606f8c81f" /></p>
 
+</br>
 
+# <p align="center">Best moment in HSR:</p>
+<p align="center"><img width="1720" height="1442" alt="IMG_20260920_005423" src="https://github.com/user-attachments/assets/46e20d8e-5abf-48a5-ac03-fe463eeda07f" /></p>
+<p align="center"><img width="2005" height="1265" alt="IMG_20260920_005404" src="https://github.com/user-attachments/assets/09b3c1b8-b9cd-4ca7-a1b6-65abf9cbf41e" /></p>
+<p align="center"><img width="2399" height="1293" alt="IMG_20260920_005527" src="https://github.com/user-attachments/assets/82239668-5d54-49ed-9d24-4380051d7d4a" /></p>
