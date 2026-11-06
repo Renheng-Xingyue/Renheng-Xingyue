@@ -2,12 +2,13 @@
 
 </br>
 
-# <p align="center">🍁🗡️Renheng screenshots to annoy the haters:</p>
+# <p align="center">🍁🗡️Renheng screenshots:</p>
 <p align="center"><img width="1109" height="544" alt="IMG_20260420_084916_1_1" src="https://github.com/user-attachments/assets/276e08d3-e10f-4df9-a3db-8a7b5b6e6ade" /></p>
 <p align="center"><img width="499" height="624" alt="20260325_073919" src="https://github.com/user-attachments/assets/88eef344-7fde-4b4a-a063-2fcd99034e5d" /></p>
 <p align="center"><img width="1904" height="222" alt="Screenshot_2026-01-28-12-30-52-152_com HoYoverse hkrpgoversea_1" src="https://github.com/user-attachments/assets/dc6eb891-5559-4e59-a086-6426731d77c4" /></p>
 <p align="center"><img width="2048" height="1372" alt="HSm2wkhakAABZKz" src="https://github.com/user-attachments/assets/b0bc3602-339a-46d4-aec6-b6a812454005" /></p>
 <p align="center"><img width="1536" height="1222" alt="G9fu8mqbUAAotVL" src="https://github.com/user-attachments/assets/bc6aa307-cb97-44aa-9ee6-e4f0ad5c03b3" /></p>
+<p align="center"><img width="1404" height="260" alt="IMG_20261107_000153" src="https://github.com/user-attachments/assets/1a5d93ce-641b-4dbc-8952-bbd2406fa600" /></p>
 <p align="center"><img width="2160" height="1285" alt="IMG_2772_1" src="https://github.com/user-attachments/assets/e3106259-8886-4c22-a634-50c7cd2ed711" /></p>
 <p align="center"><img width="540" height="381" alt="IMG_f79ec8f7-d6fc-4182-b4c3-458db706b1f4" src="https://github.com/user-attachments/assets/d8a5c29a-1b43-4538-bc6d-4278ecb1f947" /></p>
 <p align="center"><img width="2160" height="1298" alt="IMG_2776_1" src="https://github.com/user-attachments/assets/4a5b5e21-c2b2-4326-9917-140c38a43909" /></p>
