@@ -2,7 +2,7 @@
 
 </br>
 
-# <p align="center">🍁🗡️ Screenshots to spread the Renheng agenda:</p>
+# <p align="center">🍁🗡️ In-game screenshots to spread the Renheng agenda:</p>
 <p align="center"><img width="1109" height="544" alt="IMG_20260420_084916_1_1" src="https://github.com/user-attachments/assets/276e08d3-e10f-4df9-a3db-8a7b5b6e6ade" /></p>
 <p align="center"><img width="499" height="624" alt="20260325_073919" src="https://github.com/user-attachments/assets/88eef344-7fde-4b4a-a063-2fcd99034e5d" /></p>
 <p align="center"><img width="1904" height="222" alt="Screenshot_2026-01-28-12-30-52-152_com HoYoverse hkrpgoversea_1" src="https://github.com/user-attachments/assets/dc6eb891-5559-4e59-a086-6426731d77c4" /></p>
