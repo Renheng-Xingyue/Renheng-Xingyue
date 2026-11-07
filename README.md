@@ -1,12 +1,8 @@
 <p align="center"><img width="1140" height="881" alt="HNgsx6LWEAEJHu1" src="https://github.com/user-attachments/assets/db6f2a48-6c97-48f1-b98f-8e2141c3d18b" /></p>
-
 </br>
-
-# <p align="center">My faves:</p>
+### <p align="center">My faves:</p>
 <p align="center"><img width="1080" height="742" alt="IMG_20261107_214222" src="https://github.com/user-attachments/assets/1e2f489c-a16c-4f1e-bd2a-698d7a180a3d" /></p>
-
 </br>
-
 # <p align="center">🍁🗡️ In-game screenshots to spread the Renheng agenda:</p>
 <p align="center"><img width="1109" height="544" alt="IMG_20260420_084916_1_1" src="https://github.com/user-attachments/assets/276e08d3-e10f-4df9-a3db-8a7b5b6e6ade" /></p>
 <p align="center"><img width="499" height="624" alt="20260325_073919" src="https://github.com/user-attachments/assets/88eef344-7fde-4b4a-a063-2fcd99034e5d" /></p>
