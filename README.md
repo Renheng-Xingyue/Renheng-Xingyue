@@ -1,6 +1,6 @@
 <p align="center"><img width="1140" height="881" alt="HNgsx6LWEAEJHu1" src="https://github.com/user-attachments/assets/db6f2a48-6c97-48f1-b98f-8e2141c3d18b" /></p>
 </br>
-### <p align="center">My faves:</p>
+# <p align="center">My faves:</p>
 <p align="center"><img width="1080" height="742" alt="IMG_20261107_214222" src="https://github.com/user-attachments/assets/1e2f489c-a16c-4f1e-bd2a-698d7a180a3d" /></p>
 </br>
 # <p align="center">🍁🗡️ In-game screenshots to spread the Renheng agenda:</p>
